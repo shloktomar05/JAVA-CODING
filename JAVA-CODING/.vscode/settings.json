@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "files.exclude": {
+    "bin": true,
+    ".classpath":true,
+    ".gitignore":true,
+    ".project":true,
+    ".idea":true
+  }
+}

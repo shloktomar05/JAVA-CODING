@@ -12,7 +12,7 @@ public class PlaindromNumber {
 		return rev==n;
 	}
 	public static void main(String[] args) {
-		int num = 354;
+		int num = 353;
 		System.out.println(isreverse(num));
 	}
 

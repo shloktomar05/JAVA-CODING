@@ -12,12 +12,18 @@ public class Count {
 		
 		return count;
 	}
+
+	static int optimsed(int n){
+		int count = (int)Math.log10(n)+1;
+		return count;
+	}
 	
 	
 	public static void main(String[] args) {
 		
 		int num = 567;
 		System.out.println(count(num));
+		System.out.println(optimsed(num));
 		
 	}
 

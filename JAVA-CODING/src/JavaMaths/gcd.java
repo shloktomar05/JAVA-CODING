@@ -16,11 +16,11 @@ public class gcd {
 //	}
 	
 	//method-2
-	static int gcd(int a, int b) {
+	static int gcd(int a, int b) {  //a=12, b=15 -> a=15,b=12
 		if(b==0)
 			return a;
-		
-		return gcd(b, a%b);
+	
+		return gcd(b, a%b);          // a = 15 , b = 12%15 -> a=12,b=3 -> a=3,b=0
 	}
 	
 	
