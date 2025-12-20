@@ -93,6 +93,6 @@ public static void main(String[] args) {
     // System.out.println(modulo(12,3));
     // System.out.println(Lcm(x,y));
     // System.out.println(isPrime(x));
-    System.out.println(isPrime2(x));
+    // System.out.println(isPrime2(x));
 }
 }

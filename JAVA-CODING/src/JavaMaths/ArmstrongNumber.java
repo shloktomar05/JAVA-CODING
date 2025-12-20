@@ -23,7 +23,7 @@ public class ArmstrongNumber {
     
     public static void main(String[] args) {
 
-       int num =371; 
+       int num =3781; 
         System.out.println(isArmstrong(num));
     }
     
