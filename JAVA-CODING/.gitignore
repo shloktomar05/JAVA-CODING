@@ -1,1 +1,11 @@
-/bin/
+# Compiled Java files
+bin/
+out/
+
+# IDE files (just in case)
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
